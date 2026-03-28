@@ -1,0 +1,6 @@
+Priyal, a first-year B.Tech student at a college in Ashta, received a Telegram message in August 2024 from an unknown number with a profile picture showing a college ID card. The sender claimed to be a third-year senior selling barely used textbooks at 60% of the original price, attaching a professionally designed poster with real book cover images sourced online.
+Step 1 — Trust building: The sender mentioned specific professors and first-year course codes (information easily found on public college websites), making the message feel legitimate.
+Step 2 — Artificial urgency: The sender said 'only few copies left' and that other students were eagerly interested, pressuring Priya to decide quickly.
+Step 3 — Payment request: They asked for Rs. 1000 as an advance via PhonePe 'to hold the books' before physical handover.
+Step 4 — Disappearance: Immediately after Priyal transferred the money, the number stopped responding and was soon blocked. The profile picture was removed.
+Consequence: Priyal lost Rs. 1000 with no way to recover it. UPI transactions cannot be reversed without receiver cooperation. The registered SIM turned out to be temporary. He filed a report on cybercrime.gov.in but no recovery was possible. Beyond the financial loss, he experienced lasting distrust of online communications.

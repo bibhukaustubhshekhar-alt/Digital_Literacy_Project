@@ -1,0 +1,23 @@
+STAY SAFE ONLINE: STUDENT CHECKLIST
+Use Strong, Unique Passwords: Create complex passwords for your university portals and email. Avoid using your name, birthdate, or "123456."
+
+Enable Two-Factor Authentication (2FA): Always turn on 2FA (via SMS or an authenticator app) for your Google, LinkedIn, and Instagram accounts to prevent hacking.
+
+Verify UPI "Request Money" Scams: Never enter your UPI PIN to receive money. Remember: A PIN is only required to send money or check your balance.
+
+Secure Your UPI Apps: Use a separate screen lock or biometric lock for apps like PhonePe, Google Pay, or Paytm to prevent unauthorized access if your phone is misplaced.
+
+Avoid Public Wi-Fi for Sensitive Tasks: Do not log into bank accounts or fill out exam forms using free campus or cafe Wi-Fi. Use your mobile data or a trusted VPN instead.
+
+Beware of "Job" or "Task" Scams: Be skeptical of WhatsApp or Telegram messages offering easy money for liking YouTube videos or rating hotels. These are common recruitment scams.
+
+Check URLs Before Clicking: Before entering credentials on a college or scholarship portal, ensure the URL starts with https:// and look for the padlock icon.
+
+Limit Personal Info on Social Media: Do not post photos of your Aadhaar card, college ID, or hall tickets, as these contain sensitive data used for identity theft.
+
+HOW TO REPORT CYBERCRIME IN INDIA
+If you face any financial fraud, harassment, or identity theft, report it immediately:
+
+Official Website: cybercrime.gov.in (National Cyber Crime Reporting Portal)
+
+National Helpline Number: 1930 (Call this immediately for financial/UPI fraud to freeze the transaction)
